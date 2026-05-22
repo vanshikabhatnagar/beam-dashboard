@@ -1,0 +1,26 @@
+user_id,first_name,last_name,email,role,team,council,created_at,is_active
+2f1778af,Sarah,Johnson,sarah.johnson@hackney.gov.uk,social_worker,Adults East,Hackney Council,2024-09-15 19:27:32,True
+8921aef6,James,Okonkwo,james.okonkwo@southwark.gov.uk,social_worker,Early Help,Southwark Council,2024-12-29 19:11:04,True
+0067a644,Priya,Patel,priya.patel@camden.gov.uk,social_worker,Adults East,Camden Council,2024-07-07 09:18:10,True
+a8be72c4,Mohammed,Williams,mohammed.williams@hackney.gov.uk,family_support_worker,Adults East,Hackney Council,2025-01-04 23:10:59,True
+143e5986,Elena,Chen,elena.chen@hackney.gov.uk,family_support_worker,Housing Support,Hackney Council,2024-08-25 14:39:19,True
+e9b20ff8,David,Brown,david.brown@camden.gov.uk,social_worker,Adults West,Camden Council,2025-02-27 03:07:50,True
+92e77547,Fatima,Hassan,fatima.hassan@camden.gov.uk,team_leader,Adults West,Camden Council,2024-10-09 17:17:18,True
+3c90017a,Tom,Taylor,tom.taylor@camden.gov.uk,social_worker,Children & Families,Camden Council,2024-10-12 13:53:58,True
+19e928ce,Amara,Mensah,amara.mensah@southwark.gov.uk,housing_officer,Mental Health,Southwark Council,2024-07-19 11:27:50,False
+10d49419,Chris,Clark,chris.clark@camden.gov.uk,social_worker,Mental Health,Camden Council,2024-09-22 20:37:10,True
+3b10775e,Olivia,Singh,olivia.singh@hackney.gov.uk,senior_practitioner,Mental Health,Hackney Council,2024-08-14 16:15:34,True
+fe63b427,Raj,Davies,raj.davies@southwark.gov.uk,team_leader,Children & Families,Southwark Council,2024-07-01 23:42:54,True
+bd564458,Hannah,Ali,hannah.ali@southwark.gov.uk,housing_officer,Children & Families,Southwark Council,2024-11-24 02:05:25,True
+83d3fbf1,Kwame,Murphy,kwame.murphy@camden.gov.uk,team_leader,Children & Families,Camden Council,2024-10-16 23:21:46,True
+6eb8198a,Lucy,Osei,lucy.osei@camden.gov.uk,social_worker,Mental Health,Camden Council,2025-02-02 14:25:35,True
+bea58f56,Daniel,Thompson,daniel.thompson@hackney.gov.uk,team_leader,Adults West,Hackney Council,2024-11-27 12:34:38,True
+fe8d58da,Aisha,Kaur,aisha.kaur@hackney.gov.uk,family_support_worker,Adults West,Hackney Council,2025-02-21 21:04:02,True
+f3fd034f,Ben,Wilson,ben.wilson@southwark.gov.uk,team_leader,Adults East,Southwark Council,2024-10-01 12:14:07,True
+c91b803f,Mei,Ahmed,mei.ahmed@southwark.gov.uk,team_leader,Mental Health,Southwark Council,2024-10-01 05:00:37,True
+866bc877,Patrick,Roberts,patrick.roberts@camden.gov.uk,housing_officer,Early Help,Camden Council,2024-11-26 04:48:33,True
+a6b28f61,Zara,Kowalski,zara.kowalski@southwark.gov.uk,team_leader,Early Help,Southwark Council,2025-01-05 00:19:48,True
+4a3cff38,Liam,Hughes,liam.hughes@hackney.gov.uk,family_support_worker,Housing Support,Hackney Council,2025-01-13 14:55:15,True
+2b70f7a1,Naomi,Adeyemi,naomi.adeyemi@southwark.gov.uk,team_leader,Mental Health,Southwark Council,2024-12-09 15:54:03,True
+d03f0fec,George,Evans,george.evans@southwark.gov.uk,social_worker,Adults West,Southwark Council,2025-01-30 16:13:15,True
+66e5903e,Sophie,Sharma,sophie.sharma@hackney.gov.uk,housing_officer,Mental Health,Hackney Council,2024-06-25 16:07:16,True

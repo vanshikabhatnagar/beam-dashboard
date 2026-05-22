@@ -1,0 +1,9 @@
+template_id,name,category,description,ai_model,version,created_at,is_active
+8fa9e0dc,Adult Social Care - Case Note,case_note,"Generates a structured case note from a social care interaction, including key concerns, actions agreed, and safeguarding flags.",gpt-4o,2.1,2024-09-11 17:51:05,True
+5731856f,Housing Assessment Summary,assessment,"Produces a summary of a housing needs assessment conversation, highlighting eligibility, priority need, and next steps.",gpt-4o-mini,2.0,2024-09-16 10:13:10,True
+f1152467,Child & Family Meeting Minutes,meeting_minutes,"Creates formal meeting minutes from a child and family support meeting, capturing attendees, decisions, and action items.",claude-3.5-sonnet,1.0,2024-06-23 05:50:59,True
+32fd1539,Mental Health Review Note,case_note,Summarises a mental health review conversation into a clinical-style note with risk assessment and care plan updates.,claude-3-haiku,2.0,2024-08-06 01:19:57,True
+8c372b93,Safeguarding Referral Draft,referral,"Drafts a safeguarding referral based on conversation content, extracting key risk indicators and recommended actions.",gemini-1.5-pro,1.0,2024-07-27 23:48:35,True
+bbbbedd9,Brief Telephone Summary,phone_note,"Generates a concise summary of a telephone interaction with a service user, capturing the reason for call and outcome.",claude-3-haiku,1.1,2024-08-28 02:30:20,True
+0362c9cd,Multi-Agency Meeting Summary,meeting_minutes,"Produces a structured summary from a multi-agency meeting, mapping contributions by agency and agreed joint actions.",gpt-4o,2.0,2024-09-06 04:54:01,True
+d26bd427,Early Help Assessment Note,assessment,"Creates an early help assessment note from a conversation, identifying family strengths, needs, and recommended support.",gpt-4o-mini,1.0,2024-09-30 10:06:36,True

@@ -1,0 +1,201 @@
+transcript_id,recorded_at,transcript_type,duration_seconds,word_count,topic,language,has_pii_redacted
+500c2c42,2025-04-20 19:24:50,multi_agency_meeting,1680,3203,carer assessment and respite needs,en,True
+3eafffb0,2025-10-17 22:30:32,multi_agency_meeting,2640,5654,housing situation and temporary accommodation,en,True
+1588b162,2025-04-27 20:28:43,phone_call,1980,4780,hospital discharge planning,ar,True
+274f1a01,2025-09-13 11:31:07,multi_agency_meeting,1140,2154,mental health support and medication review,en,True
+f79ba556,2025-03-25 21:00:49,multi_agency_meeting,3420,8464,carer assessment and respite needs,ar,True
+97794008,2025-02-04 05:43:39,team_meeting,5280,11905,safeguarding concern for vulnerable adult,en,True
+1fe1b7e4,2024-12-03 23:40:54,face_to_face,660,1344,hospital discharge planning,en,True
+3c59faa4,2025-02-19 01:08:58,phone_call,4980,9169,housing situation and temporary accommodation,en,True
+228d1b3e,2025-05-15 15:38:00,multi_agency_meeting,1980,3949,mental health support and medication review,en,True
+8ec12dce,2025-11-18 13:00:53,team_meeting,2040,4792,bereavement and grief support,en,True
+7d2e3584,2024-11-15 06:55:16,video_call,3420,7140,elderly care needs and mobility assessment,en,True
+3cf21614,2024-11-16 10:38:31,team_meeting,2760,6514,benefit entitlements and universal credit,en,True
+a4300663,2025-10-22 13:05:27,face_to_face,3420,6595,young person transition to adult services,en,False
+95e50b7a,2024-10-29 13:16:34,multi_agency_meeting,900,1651,young person transition to adult services,pl,True
+3f5d9c21,2024-11-12 10:32:38,face_to_face,3300,7061,hospital discharge planning,en,True
+609b09d4,2024-10-16 13:02:35,team_meeting,180,448,substance misuse referral,en,True
+32ca306d,2025-08-20 09:58:14,team_meeting,4440,10049,safeguarding concern for vulnerable adult,en,True
+25dc62a0,2025-02-17 02:14:19,multi_agency_meeting,4320,7960,benefit entitlements and universal credit,en,True
+98db56ec,2025-09-06 07:58:55,multi_agency_meeting,1380,2538,carer assessment and respite needs,en,False
+6ba52dc0,2024-10-24 05:19:48,phone_call,5340,12833,social isolation and community activities,en,False
+64b52137,2025-11-17 11:31:09,multi_agency_meeting,4740,8663,hospital discharge planning,en,True
+5ed81f47,2025-11-14 00:35:36,video_call,2160,4196,carer assessment and respite needs,en,True
+681699d2,2025-07-05 09:58:58,video_call,3660,7398,domestic abuse risk assessment,en,True
+092be7d0,2025-08-22 23:03:40,multi_agency_meeting,900,1666,social isolation and community activities,en,True
+30fe3128,2025-05-30 01:59:46,face_to_face,3000,5998,mental health support and medication review,en,True
+ff5f92f6,2025-04-23 23:19:41,multi_agency_meeting,240,544,social isolation and community activities,en,False
+1d8f6843,2024-11-20 10:59:32,video_call,1020,2471,domestic abuse risk assessment,en,True
+ca36ffa1,2025-04-07 20:19:03,face_to_face,2760,5361,social isolation and community activities,en,True
+225351ed,2025-09-15 10:53:37,phone_call,840,1884,debt and financial hardship,en,True
+0ed985bd,2025-05-18 01:56:40,video_call,1380,3200,domestic abuse risk assessment,en,True
+fcab95d7,2024-09-08 12:15:22,phone_call,1320,2880,child school attendance and behaviour concerns,en,True
+51156a1e,2024-12-25 00:40:05,face_to_face,480,967,elderly care needs and mobility assessment,en,True
+284d6ca5,2024-10-01 23:41:39,face_to_face,2040,4624,immigration status and NRPF support,en,True
+309c48ac,2025-07-13 15:25:24,face_to_face,1980,4762,social isolation and community activities,bn,True
+8e55f20b,2025-07-18 05:43:29,face_to_face,2700,6338,housing situation and temporary accommodation,en,True
+26075046,2025-03-12 18:10:21,face_to_face,960,1985,debt and financial hardship,en,True
+23db7434,2025-02-03 00:18:25,video_call,2520,5983,young person transition to adult services,en,True
+1feccd80,2025-01-29 00:12:00,video_call,2280,5483,employment support and training,bn,True
+1712791a,2025-10-01 16:00:36,multi_agency_meeting,2700,6635,employment support and training,en,False
+ea2ef209,2025-01-17 16:44:43,video_call,420,787,bereavement and grief support,en,True
+7edc13a2,2025-05-02 15:22:08,multi_agency_meeting,4080,7674,elderly care needs and mobility assessment,en,True
+10f5d563,2024-10-05 11:25:29,phone_call,4140,10134,elderly care needs and mobility assessment,en,True
+25201560,2025-02-01 01:00:03,team_meeting,660,1626,immigration status and NRPF support,ar,True
+b227f962,2024-12-06 19:11:03,multi_agency_meeting,2520,5712,safeguarding concern for vulnerable adult,en,True
+6066da06,2025-11-05 14:59:51,face_to_face,3360,7611,domestic abuse risk assessment,en,True
+5a607e49,2025-01-14 04:06:17,multi_agency_meeting,2460,5127,social isolation and community activities,en,True
+58799f72,2025-02-11 06:05:21,multi_agency_meeting,4800,10839,elderly care needs and mobility assessment,en,True
+78042365,2025-02-13 23:40:58,team_meeting,1440,3256,carer assessment and respite needs,en,True
+b574e698,2025-05-19 08:21:43,face_to_face,5340,10772,mental health support and medication review,en,True
+1c70627e,2024-10-06 21:29:10,team_meeting,4860,11638,hospital discharge planning,en,True
+0a7cd291,2025-11-22 03:17:00,team_meeting,3960,8235,care package review and support hours,en,True
+331d83aa,2024-11-22 18:55:52,face_to_face,1500,3544,elderly care needs and mobility assessment,en,True
+0762247c,2025-11-07 22:47:49,phone_call,3660,6929,hospital discharge planning,en,True
+d27d7177,2025-11-09 03:07:21,video_call,3540,7890,social isolation and community activities,en,True
+a9f6c7e1,2025-10-31 13:04:24,face_to_face,3780,7994,young person transition to adult services,en,True
+f3b26938,2025-04-04 09:27:29,team_meeting,4980,9798,carer assessment and respite needs,en,True
+0c182394,2025-03-02 03:16:37,video_call,2580,6256,debt and financial hardship,en,True
+aa1a4e26,2025-06-25 12:17:43,face_to_face,660,1379,domestic abuse risk assessment,en,True
+5cdcfa3b,2024-10-19 08:43:01,team_meeting,3120,7592,care package review and support hours,en,True
+1bc6b33e,2025-11-22 03:38:45,team_meeting,180,442,employment support and training,en,True
+96ecc4f3,2025-07-23 11:07:22,multi_agency_meeting,4800,11656,tenancy sustainment and arrears,en,True
+f180a212,2025-09-13 05:01:22,team_meeting,2760,6260,housing situation and temporary accommodation,en,True
+e4d0d296,2025-08-30 00:47:01,multi_agency_meeting,4260,7748,domestic abuse risk assessment,en,True
+575c60c0,2024-09-22 01:13:07,team_meeting,1200,2888,mental health support and medication review,en,True
+7689de88,2025-05-13 06:17:45,team_meeting,2640,5375,care package review and support hours,en,True
+454b7614,2025-07-25 10:32:16,phone_call,3780,6855,debt and financial hardship,en,False
+88a1b4e2,2025-05-30 19:44:01,phone_call,5160,9433,hospital discharge planning,en,True
+984ba102,2024-09-16 19:54:39,face_to_face,1980,3738,social isolation and community activities,en,True
+a99492da,2025-02-17 07:09:12,video_call,3000,5752,young person transition to adult services,en,True
+804acfab,2024-11-28 23:02:50,video_call,960,2116,substance misuse referral,ar,True
+f3863392,2025-06-19 12:13:43,face_to_face,720,1594,employment support and training,en,True
+008e579b,2025-04-23 05:54:31,phone_call,4500,10565,social isolation and community activities,en,True
+d8c9f0ca,2025-06-15 19:56:30,multi_agency_meeting,5100,10398,mental health support and medication review,en,True
+919bc28b,2024-11-21 23:23:13,video_call,5040,12217,elderly care needs and mobility assessment,en,True
+7bd93f27,2025-01-15 19:25:51,video_call,4860,11497,carer assessment and respite needs,en,True
+894c5a50,2025-08-05 07:41:49,video_call,2640,6325,bereavement and grief support,en,True
+4685f6e0,2025-08-17 03:33:30,team_meeting,4500,10022,hospital discharge planning,en,True
+de8bf475,2025-05-11 10:42:11,team_meeting,1800,3687,substance misuse referral,en,True
+865024a2,2025-12-08 01:08:05,multi_agency_meeting,240,518,debt and financial hardship,en,True
+aa4b33a0,2025-07-13 16:22:09,multi_agency_meeting,1980,4521,antisocial behaviour and neighbourhood issues,en,True
+6bf8cccd,2024-09-14 09:26:15,video_call,1860,3874,mental health support and medication review,en,True
+87a56fe4,2025-06-14 15:02:23,multi_agency_meeting,4200,8570,antisocial behaviour and neighbourhood issues,pl,True
+d2fb2be5,2025-06-01 06:13:24,video_call,2520,4979,young person transition to adult services,en,True
+6c5a1b21,2024-12-02 20:39:42,face_to_face,1620,3161,tenancy sustainment and arrears,en,True
+3ea9d42d,2025-10-13 11:56:24,video_call,900,2144,social isolation and community activities,en,True
+0038da91,2025-04-23 18:40:34,multi_agency_meeting,1140,2270,housing situation and temporary accommodation,bn,True
+f1c520b4,2024-12-08 02:01:13,phone_call,240,528,antisocial behaviour and neighbourhood issues,en,True
+0fbee4cf,2025-01-22 04:47:16,video_call,3840,7218,benefit entitlements and universal credit,en,True
+4379c369,2025-11-23 04:27:14,face_to_face,1320,3125,benefit entitlements and universal credit,ar,True
+1f611462,2025-03-12 18:36:53,multi_agency_meeting,3360,7474,child school attendance and behaviour concerns,en,True
+de618a81,2025-10-11 21:27:29,team_meeting,3540,7108,employment support and training,en,True
+08b25446,2025-11-16 16:01:17,phone_call,4860,12014,social isolation and community activities,en,True
+a01155e7,2025-02-11 21:47:41,phone_call,1380,2715,debt and financial hardship,en,True
+d0e4190f,2025-07-15 07:19:10,multi_agency_meeting,3780,7574,young person transition to adult services,en,True
+49b70caf,2025-08-19 15:45:26,face_to_face,2160,5079,mental health support and medication review,en,True
+1da99138,2025-02-01 15:37:02,phone_call,4320,8455,elderly care needs and mobility assessment,en,True
+c2e1ccb1,2024-12-20 11:28:35,phone_call,1440,3390,mental health support and medication review,en,True
+d3af35c4,2025-04-13 04:05:28,phone_call,3720,8489,young person transition to adult services,en,False
+46b02249,2025-09-24 17:28:39,team_meeting,3540,6571,tenancy sustainment and arrears,en,True
+0d65b54b,2025-05-09 08:30:35,video_call,360,671,social isolation and community activities,bn,True
+7dee97c4,2025-11-21 18:29:18,phone_call,5340,12682,bereavement and grief support,en,True
+b87fdd1e,2025-01-15 01:47:30,multi_agency_meeting,5160,10885,antisocial behaviour and neighbourhood issues,en,False
+fabcd67e,2025-08-05 13:29:06,phone_call,3780,7724,antisocial behaviour and neighbourhood issues,en,True
+da74f789,2025-01-03 21:59:33,team_meeting,3960,7926,family relationship breakdown,ar,True
+a1e35cfa,2025-11-02 06:32:38,team_meeting,840,1696,benefit entitlements and universal credit,en,False
+2d706596,2025-07-11 22:22:08,phone_call,5220,12572,carer assessment and respite needs,en,True
+494363ac,2025-10-08 16:24:38,multi_agency_meeting,3960,8861,immigration status and NRPF support,en,True
+9814db17,2025-11-01 14:11:46,video_call,3540,8554,domestic abuse risk assessment,en,True
+ec9390e1,2025-03-05 20:49:40,video_call,4380,7925,substance misuse referral,en,True
+edc73580,2024-11-28 03:04:06,phone_call,5100,12150,young person transition to adult services,en,True
+4c192f05,2025-10-01 06:03:42,team_meeting,3840,9546,debt and financial hardship,en,True
+0b9069be,2025-06-25 22:33:41,multi_agency_meeting,4080,9475,care package review and support hours,en,True
+c8b15890,2025-07-20 07:05:14,multi_agency_meeting,2220,5271,family relationship breakdown,en,True
+be57d09c,2025-11-30 21:18:43,team_meeting,1320,2788,bereavement and grief support,en,True
+3522bda6,2025-10-28 02:16:14,team_meeting,2640,6359,employment support and training,pl,True
+56dc7fa4,2025-06-25 11:05:38,team_meeting,480,970,hospital discharge planning,en,False
+10139a63,2025-06-24 02:39:49,face_to_face,3960,9802,employment support and training,en,False
+c0bf7c0a,2025-05-16 20:49:47,team_meeting,900,1951,child school attendance and behaviour concerns,en,True
+63ead2ef,2025-07-16 10:33:19,phone_call,3780,8871,domestic abuse risk assessment,en,True
+e814c87a,2025-07-06 17:37:34,video_call,5340,12824,mental health support and medication review,en,True
+f492f05e,2025-09-15 00:00:01,phone_call,4920,9091,tenancy sustainment and arrears,en,False
+af7fa38b,2025-02-24 16:39:05,team_meeting,900,2099,mental health support and medication review,en,True
+97cdb7bc,2025-01-08 05:15:51,phone_call,480,972,safeguarding concern for vulnerable adult,en,True
+8be15574,2025-08-01 12:35:01,face_to_face,4200,8771,domestic abuse risk assessment,en,True
+f0cf39d3,2025-01-14 23:31:45,multi_agency_meeting,3060,6835,mental health support and medication review,en,False
+4885707d,2024-12-21 03:54:27,team_meeting,5040,9968,hospital discharge planning,en,True
+eb92acd0,2025-08-28 08:56:57,multi_agency_meeting,1380,2555,safeguarding concern for vulnerable adult,ar,False
+be4baf75,2025-04-21 08:38:21,video_call,3660,8753,elderly care needs and mobility assessment,en,True
+5a9ce60d,2025-09-11 07:39:04,face_to_face,3060,6733,child school attendance and behaviour concerns,en,False
+7f9e4954,2025-04-18 07:30:00,team_meeting,2280,4116,housing situation and temporary accommodation,en,True
+beea7c94,2024-10-09 02:15:03,team_meeting,2340,5482,social isolation and community activities,en,True
+a68a5a74,2025-02-18 02:32:25,multi_agency_meeting,2100,4776,care package review and support hours,en,True
+38605e2d,2024-12-16 05:44:59,phone_call,2520,5927,child school attendance and behaviour concerns,en,True
+d43658d8,2024-12-12 01:41:37,video_call,2640,6133,mental health support and medication review,en,True
+5daaeff4,2025-10-24 23:17:21,multi_agency_meeting,4020,9806,immigration status and NRPF support,en,True
+2cde0ab4,2025-09-10 06:17:40,video_call,1020,2170,safeguarding concern for vulnerable adult,en,True
+9e97a45a,2025-02-23 05:45:45,multi_agency_meeting,2940,5477,employment support and training,en,True
+6c5ffa66,2024-12-05 23:51:39,video_call,5340,12411,young person transition to adult services,en,True
+e176fe9e,2025-06-16 12:46:14,face_to_face,3780,6870,child school attendance and behaviour concerns,en,True
+3194f427,2025-02-19 22:35:01,team_meeting,2460,5545,mental health support and medication review,en,True
+7a993970,2024-09-29 21:41:03,team_meeting,1020,1905,safeguarding concern for vulnerable adult,en,True
+a3885c2f,2025-08-19 08:31:57,multi_agency_meeting,3360,7429,immigration status and NRPF support,en,False
+dad7404f,2024-11-16 21:53:49,multi_agency_meeting,3300,8109,antisocial behaviour and neighbourhood issues,en,True
+4fc902e8,2025-02-16 18:12:01,team_meeting,1980,4749,young person transition to adult services,en,True
+345c5712,2025-10-28 21:34:45,phone_call,3180,6338,immigration status and NRPF support,bn,False
+8b790191,2025-08-20 04:32:46,face_to_face,5100,11462,mental health support and medication review,bn,True
+ff92100d,2025-05-18 01:03:40,face_to_face,4500,8746,hospital discharge planning,en,True
+458d2da0,2025-11-30 10:58:22,face_to_face,2700,6323,care package review and support hours,en,True
+8cb33281,2025-04-04 08:46:39,face_to_face,4320,8533,domestic abuse risk assessment,en,True
+6e5c3158,2024-09-21 00:34:36,phone_call,2880,6776,domestic abuse risk assessment,en,True
+75872c43,2025-01-14 08:11:04,phone_call,1140,2643,debt and financial hardship,en,True
+047e3ffd,2025-09-05 21:52:05,video_call,4080,9039,young person transition to adult services,en,True
+1e224c27,2024-10-04 16:22:58,video_call,3660,8236,carer assessment and respite needs,en,False
+6a5a2226,2025-07-09 22:41:17,phone_call,3900,8964,elderly care needs and mobility assessment,en,False
+3a21191d,2025-05-09 04:35:58,face_to_face,660,1246,social isolation and community activities,en,True
+8a6d2fa1,2025-05-11 13:53:45,multi_agency_meeting,4200,8426,employment support and training,en,True
+cba75735,2024-11-28 20:49:58,face_to_face,3480,7363,tenancy sustainment and arrears,en,True
+1dbeae6f,2025-08-19 05:49:56,team_meeting,900,1816,employment support and training,en,True
+a2a99578,2024-12-28 13:23:44,phone_call,840,2001,antisocial behaviour and neighbourhood issues,en,True
+a318ac93,2025-06-17 10:38:27,multi_agency_meeting,600,1326,domestic abuse risk assessment,en,True
+7169f032,2024-12-04 22:33:22,video_call,5280,12982,elderly care needs and mobility assessment,en,False
+dfb0078e,2024-10-10 23:01:27,multi_agency_meeting,2520,5156,safeguarding concern for vulnerable adult,en,True
+002f6925,2025-09-10 12:39:42,phone_call,2820,6744,hospital discharge planning,en,True
+45d12c7e,2025-11-20 21:59:59,team_meeting,4440,11020,hospital discharge planning,en,True
+100e84b6,2025-11-07 10:22:52,multi_agency_meeting,5220,12426,housing situation and temporary accommodation,en,True
+277d7e94,2025-04-28 23:53:31,video_call,180,346,family relationship breakdown,en,True
+f42272ac,2024-10-25 01:09:58,phone_call,840,1950,domestic abuse risk assessment,en,True
+25529dd3,2025-05-23 18:45:42,video_call,2520,5808,substance misuse referral,en,True
+c98f6034,2024-11-05 23:42:50,face_to_face,1380,3212,benefit entitlements and universal credit,en,True
+ccd9bd51,2025-08-11 04:13:28,team_meeting,4800,10125,elderly care needs and mobility assessment,en,True
+765a98fa,2024-11-28 09:42:43,team_meeting,1020,2038,immigration status and NRPF support,en,True
+59459b4b,2025-04-28 13:21:15,face_to_face,3180,7915,benefit entitlements and universal credit,en,True
+ceb4b429,2025-02-12 01:41:12,video_call,2400,4871,domestic abuse risk assessment,en,True
+8445691f,2025-01-15 11:11:18,team_meeting,4260,9766,domestic abuse risk assessment,en,True
+9b9c4f54,2025-06-03 02:09:16,team_meeting,480,1010,mental health support and medication review,en,True
+c4075c81,2025-05-02 03:52:23,team_meeting,4560,9498,bereavement and grief support,en,True
+8d20749d,2025-07-12 14:20:58,video_call,1440,3399,housing situation and temporary accommodation,en,True
+2b04e0a0,2025-06-09 01:25:23,team_meeting,960,1891,mental health support and medication review,en,True
+5e84ea3f,2025-07-05 09:37:33,video_call,1860,3781,safeguarding concern for vulnerable adult,en,True
+14b13e6b,2024-11-28 13:36:38,multi_agency_meeting,1620,3943,carer assessment and respite needs,en,True
+a9cfbe50,2024-12-24 17:08:17,phone_call,1260,2493,hospital discharge planning,en,True
+85d2b58d,2024-10-29 12:41:12,team_meeting,3720,8660,substance misuse referral,en,True
+b26b143d,2025-11-13 10:53:22,video_call,4980,10066,social isolation and community activities,en,True
+ff95de64,2025-04-24 04:58:55,multi_agency_meeting,600,1227,debt and financial hardship,en,True
+ebe69766,2024-09-30 05:02:59,video_call,2340,4337,benefit entitlements and universal credit,en,False
+a7d865bc,2025-12-06 10:27:01,team_meeting,3720,8207,carer assessment and respite needs,bn,True
+af975983,2024-10-02 20:43:07,multi_agency_meeting,5160,9967,young person transition to adult services,en,True
+92e0702d,2024-10-19 01:24:33,phone_call,2760,6865,young person transition to adult services,en,True
+eefa5990,2024-10-01 09:39:43,team_meeting,3540,7670,hospital discharge planning,en,True
+59681639,2025-04-08 17:31:06,team_meeting,2760,6279,employment support and training,en,True
+37a22f75,2025-05-18 22:18:57,video_call,900,1971,mental health support and medication review,en,True
+6112573e,2025-12-13 03:09:26,video_call,780,1722,domestic abuse risk assessment,en,True
+ba2c8662,2025-07-02 10:37:35,multi_agency_meeting,780,1573,domestic abuse risk assessment,en,True
+52156761,2024-12-09 06:14:54,phone_call,5100,11573,carer assessment and respite needs,en,True
+15d8f36d,2025-04-28 21:40:51,face_to_face,2760,6798,substance misuse referral,en,True
+5d165e30,2024-12-16 20:24:14,phone_call,2400,5738,domestic abuse risk assessment,en,True
+4091c56a,2025-10-14 23:15:39,video_call,4920,9307,benefit entitlements and universal credit,en,True
+881840ff,2025-01-07 13:52:25,phone_call,3300,6781,young person transition to adult services,en,False
+e5ddf36b,2025-04-10 07:26:29,face_to_face,4260,8381,young person transition to adult services,bn,True
+b8c0070b,2025-01-29 16:43:25,multi_agency_meeting,3540,7516,immigration status and NRPF support,en,True
