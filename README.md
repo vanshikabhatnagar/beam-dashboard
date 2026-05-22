@@ -1,3 +1,7 @@
+# Live Demo
+Open this link - https://beam-dashboard-sepia.vercel.app/
+
+----
 # Magic Notes Analytics Dashboard
 
 A clickable analytics prototype for Beam's Magic Notes product, built to demonstrate what operational intelligence could look like for senior leadership at UK local authorities.
@@ -90,19 +94,6 @@ Output is written to `dist/`. To preview the production build locally:
 ```bash
 npm run preview
 ```
-
----
-
-## Deploying to Vercel
-
-The fastest way to share the dashboard is a static deploy via Vercel:
-
-1. Run `npm run build`
-2. Go to [vercel.com/new](https://vercel.com/new)
-3. Drag and drop the `dist/` folder onto the page
-4. Vercel generates a shareable URL immediately
-
-Alternatively, push the repo to GitHub and import it into Vercel. Set the framework to **Vite** and the build command to `npm run build`.
 
 ---
 
